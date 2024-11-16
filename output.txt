@@ -1,0 +1,8 @@
+Keywords: 18
+Identifiers: 38
+Numbers: 9
+Operators: 18
+Macros: 2
+Headers: 2
+Punctuation: 20
+Unknown tokens: 0

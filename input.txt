@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define MAX 100
+#define MIN 0
+
+dhoro x soman 10;
+int y = MAX; // C keyword and macro
+bag z;
+float average = (x + y) / 2.0; // C keyword and arithmetic
+if (x > MIN) { // C keyword and macro
+    return y;
+}
+
+nokol x soman y;
+sorto x soman 10 tarpor dekhau x;
+ghuro 5 bar tarpor thamo;
+shuru a soman 5;
+sesh b soman 20;
+moddhye result soman a + b;
+dako_function myFunc ferot x;
+unknownKeyword example;
